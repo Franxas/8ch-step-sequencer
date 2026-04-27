@@ -1,0 +1,4 @@
+-> function to shape the driving phasor.  
+-> randomize steps of the sequence.  
+-> each channels its own tempo and trigger probability. velovity, ratcheting and modulation for each step.  
+-> matrix for ducking on triggers.  
